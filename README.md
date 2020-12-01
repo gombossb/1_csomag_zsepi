@@ -1,2 +1,2 @@
-# 1_csomag_zsepi
-1 csomagnyi papírzsebkendő RAR-ba csomagolva
+# Egy csomag papírzsebkendő - 100±0db 0Ft
+Egy csomagnyi papírzsebkendő RAR-ba csomagolva. WinRAR-ral vagy más RAR fájlformátumot támogató archiválóval tömöríthető ki.
